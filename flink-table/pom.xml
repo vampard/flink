@@ -84,6 +84,6 @@ under the License.
 		more details are in FLINK-27995 -->
 		<janino.version>3.1.10</janino.version>
 		<guava.version>33.4.0-jre</guava.version>
-		<quartz.version>2.3.2</quartz.version>
+		<quartz.version>2.4.0</quartz.version>
 	</properties>
 </project>
